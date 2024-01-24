@@ -1,0 +1,2 @@
+This is a bigger and better version of my TicTacToe CMD Line version. It is the same idea, but it uses the Java Swing library to implement a GUI. It is similar to the CMD Line version
+as far as the algorithm goes, but I fixed the algorithm and if you choose play against the computer, it should be impossible to win (to the best of my knowledge). It is my first use of any type of GUI, and it helped me get familiar with the Swing library. 
